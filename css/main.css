@@ -1,0 +1,23 @@
+.lightbox-gallery a {
+  text-decoration: none;
+}
+
+.lightbox-gallery img {
+  border: 1px dotted #ddbc75;
+  padding: 4px;
+}
+
+.lightbox-gallery img:hover {
+  box-shadow: 3px 3px 3px #a57c50;
+}
+
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #bc0011;
+
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #c76051;
+}
